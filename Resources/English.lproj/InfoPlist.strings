@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "SDL Poker";
+CFBundleShortVersionString = "SDL Poker version 0.1";
+CFBundleGetInfoString = "SDL Poker version 0.1, Copyright 2010 Chris McKnight.";
+NSHumanReadableCopyright = "Copyright 2010 Chris McKnight.";
