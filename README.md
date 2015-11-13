@@ -1,5 +1,7 @@
 # SDL Poker
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](MIT-LICENSE)
+
 ## Overview
 
 A preliminary conversion of my Java implementation of 5-card Poker to C++ using [SDL](http://www.libsdl.org/).
@@ -27,4 +29,3 @@ TODO
 
 - Linux compilation
 - Windows compilation
-
