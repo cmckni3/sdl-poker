@@ -1,6 +1,6 @@
 # SDL Poker
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](MIT-LICENSE)
+[![License](https://img.shields.io/github/license/cmckni3/sdl-poker.svg)](MIT-LICENSE)
 
 ## Overview
 
